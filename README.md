@@ -9,4 +9,4 @@
 - **Offline Merkle Proof Verification:** Independent verification of audit bundles without external network dependencies.
 
 ## Get the Commercial PQC & Governance Kit ($199)
-Contact **apumiaaifund@gmail.com** or visit **https://github.io**.
+Get instant access via Stripe, Apple Pay, or PayPal: **[Buy PQC Migration & ML-DSA-65 Audit Kit ($199) ↗](https://app.lava.top/products/852d8dc0-97bd-4502-9a72-b5a63b1e44b9)**
