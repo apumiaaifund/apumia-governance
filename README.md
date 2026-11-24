@@ -1,35 +1,12 @@
-<p align="center">
-  <img src="docs/logo.png" alt="apum-demo" width="200"/>
-</p>
+<p align="center"><img src="docs/logo.png" alt="APUMIA Governance" width="200"/></p>
 
-<h1 align="center">apum-demo</h1>
+# APUMIA Governance — PQC ML-DSA-65 & Merkle Evidence System
 
-<p align="center"><b>Interactive demo: APUM — AI Certification Evidence System (PQC ML-DSA-65, Merkle trees, offline verification).</b></p>
+**Offline-verifiable AI certification evidence system powered by Post-Quantum Cryptography (ML-DSA-65) and tamper-evident Merkle trees.**
 
-## Overview
-Public demo for APUM AI Fund. Flagship: [apumia_credit](https://github.com/apumiaaifund/apumia_credit).
+## Key Capabilities
+- **Post-Quantum Audit Signatures (ML-DSA-65):** Future-proof cryptographic attestation for AI model releases and regulatory logs.
+- **Offline Merkle Proof Verification:** Independent verification of audit bundles without external network dependencies.
 
----
-
-### 🚀 Что мы можем реализовать для партнёров на основе этого решения (Ниши и сценарии)
-
-- **Корпоративная ИБ и Госсектор:** постквантовая криптографическая защита журналов транзакций и критических событий.
-- **Финтех и процессинг:** неизменяемые деревья Меркла (`Merkle Log`) для доказательства целостности баз данных.
-
-> **Формат сотрудничества:** запуск пилотного стенда (PoC) за 2–4 недели, лицензирование модуля (On-Premise) или кастомная интеграция под стек заказчика.  
-> 📬 **Запросить демонстрацию и расчёт пилота:** [apumiaaifund@gmail.com](mailto:apumiaaifund@gmail.com)
-
----
-
-### 🚀 Что мы можем реализовать для партнёров (Ниши и сценарии)
-
-- **Корпоративный ИИ и Финтех:** детерминированный контроль, крипто-аудит и верификация данных.
-- **Промышленность и ИБ:** адаптация модулей под закрытые контуры (On-Premise).
-
-> 📬 **Запросить демонстрацию и расчёт пилота:** [apumiaaifund@gmail.com](mailto:apumiaaifund@gmail.com)
-
----
-
-### 🛡️ Верификация качества (Apumia DevSecOps Gate)
-
-> **Статус:** `VERIFIED & PROVEN` | `_synthetic: false` | `preservation: 100.0%` | `verified: true`
+## Get the Commercial PQC & Governance Kit ($199)
+Contact **apumiaaifund@gmail.com** or visit **https://github.io**.
